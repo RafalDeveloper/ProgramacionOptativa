@@ -281,6 +281,6 @@ public class EjerciciosSwitchAvanzado {
 
     public void ejercicio10(){
 
-        
+
     }
 }
