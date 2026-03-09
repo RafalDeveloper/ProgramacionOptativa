@@ -5,7 +5,8 @@ import java.util.List;
 import java.util.function.Predicate;
 
 public class E2PredicateFiltroN {
-    // Utiliza un Predicate para crear una función lambda que determine si un número es par. Aplícala a una lista de números del 1 al 20 y muestra solo los pares.
+    // Utiliza un Predicate para crear una función lambda que determine si un número es par.
+    // Aplícala a una lista de números del 1 al 20 y muestra solo los pares.
 
     public void e2(){
         Predicate<Integer> nPar = n -> n % 2 == 0; // Creo funcion predicate (devuelve True o false)
