@@ -37,6 +37,7 @@ public class E9BifunctionColeccion {
             return new ArrayList<>(resultado);
         };
 
+        System.out.println(fusion.apply(numeros1List, numeros2List));
 
     }
 }
